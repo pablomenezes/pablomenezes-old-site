@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Menezes</title>
+    <description>Too many subjects</description>
+    <link>https://pmenezes.com/</link>
+    <atom:link href="https://pmenezes.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Nov 2016 11:17:34 -0200</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 11:17:34 -0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>What is your project bus factor?</title>
+        <description>&lt;p&gt;What is your project bus factor?&lt;/p&gt;
+
+&lt;p&gt;The Bus Factor&lt;/p&gt;
+
+&lt;p&gt;If by acase a bus passasse por cima of a member of your team, when he was crossing one street tweeting on your cellphone? What a pena? If by acaso all the knowledge of the project was (já a bus passed over him, except sure if this team member is hard to die, but ai I don’t have to continue this article) centralized at this person? The project will enter in collapse? Began to fall? Would be like the bus passed over the project too?&lt;/p&gt;
+
+&lt;p&gt;This is the Bus Factor!&lt;/p&gt;
+
+&lt;p&gt;The Bus Factor in software development refers to the number of people at your project needed to be “atropeladas” by a bus to&lt;/p&gt;
+
+&lt;p&gt;How to measure your Bus Factor?&lt;/p&gt;
+
+&lt;p&gt;Simples. Liste todos os membros do seu time primeiro, incluindo você mesmo. Depois, um a um, se pergunte: “Se por um acaso esse membro seja atropelado por um ônibus, o projeto pode continuar normalmente?”. Caso a resposta “Não”, achou o seu Fator Ônibus! E você também pode ser um Fator Ônibus!&lt;/p&gt;
+
+&lt;p&gt;How to avoid a low Bus Factor?&lt;/p&gt;
+
+&lt;p&gt;Há inúmeras formas de se evitar um Fator Ônibus baixo, abaixo há algumas formas, mas esse número pode ser maior:&lt;/p&gt;
+
+&lt;p&gt;Troca de conhecimento;
+Trabalho em pares;
+Tech talks semanais de 30 minutos a 1 hora em que todos os membros compartilham as coisas mais interessantes que ele criou na semana.
+Vale também a sua criatividade e a do time para encontrar outras formas de evitar que esse número seja pequeno. Uma última observação: O Fator Ônibus não serve só para o caso de um membro de seu time ser atropelado e falecer, mas também para casos onde a pessoa consegue outro emprego, licença-maternidade ou licença por algum problema de saúde, pedir demissão, mudar de área ou projeto, virar hippie, etc.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 15:33:58 -0200</pubDate>
+        <link>https://pmenezes.com/what-is-your-project-bus-factor</link>
+        <guid isPermaLink="true">https://pmenezes.com/what-is-your-project-bus-factor</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Qual o fator ônibus do seu projeto?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/imagem01.jpg&quot; alt=&quot;O Fator Ônibus&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;E se por um acaso um ônibus passasse por cima de um membro do seu time enquanto ele atravessasse uma rua tweetando no seu smartphone? Seria uma pena né? E se por um acaso todo o conhecimento de seu projeto estivesse (já que um ônibus passou por cima dele, exceto claro se esse membro do seu time for uma pessoa casca-grossa, mas ai não há sentido em continuar o artigo) centralizado nessa pessoa? O projeto entraria em colapso? Começaria a decair? Seria como se o ônibus tivesse passado por cima do projeto também?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Esse é o Fator Ônibus!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;O Fator Ônibus no desenvolvimento de software se refere ao número de pessoas que teriam que ser atropeladas por um ônibus para que seu projeto se torne incapaz de prosseguir. Quanto maior o seu Fator Ônibus, melhor, pois dificilmente 8 pessoas são atropeladas por um ônibus no mesmo momento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Como medir o Fator Ônibus?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Simples. Liste todos os membros do seu time primeiro, incluindo você mesmo. Depois, um a um, se pergunte: “Se por um acaso esse membro seja atropelado por um ônibus, o projeto pode continuar normalmente?”. Caso a resposta “Não”, achou o seu Fator Ônibus! E você também pode ser um Fator Ônibus!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/imagem02.jpg&quot; alt=&quot;Divinha Quenhé!&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Como evitar um Fator Ônibus baixo?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Há inúmeras formas de se evitar um Fator Ônibus baixo, abaixo há algumas formas, mas esse número pode ser maior:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Troca de conhecimento;&lt;/li&gt;
+  &lt;li&gt;Trabalho em pares;&lt;/li&gt;
+  &lt;li&gt;Tech talks semanais de 30 minutos a 1 hora em que todos os membros compartilham as coisas mais interessantes que ele criou na semana.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vale também a sua criatividade e a do time para encontrar outras formas de evitar que esse número seja pequeno. Uma última observação: O Fator Ônibus não serve só para o caso de um membro de seu time ser atropelado e falecer, mas também para casos onde a pessoa consegue outro emprego, licença-maternidade ou licença por algum problema de saúde, pedir demissão, mudar de área ou projeto, virar hippie, etc.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Nov 2016 15:33:58 -0200</pubDate>
+        <link>https://pmenezes.com/qual-o-fator-onibus-do-seu-projeto</link>
+        <guid isPermaLink="true">https://pmenezes.com/qual-o-fator-onibus-do-seu-projeto</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
